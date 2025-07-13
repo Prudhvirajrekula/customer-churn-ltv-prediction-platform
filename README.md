@@ -81,10 +81,11 @@ streamlit run app.py
 ---
 
 ## 📌 Screenshots
+<img width="1916" height="1066" alt="cc" src="https://github.com/user-attachments/assets/0bc67653-39df-4fdf-903a-68c8e605b701" />
+<img width="1918" height="1070" alt="cc1" src="https://github.com/user-attachments/assets/c6618498-2726-4ec0-8034-3e7a836af681" />
+<img width="1910" height="1070" alt="cc2" src="https://github.com/user-attachments/assets/1a0ea685-9d29-4477-831e-1b32e2db8d9b" />
+<img width="1897" height="1063" alt="cc3" src="https://github.com/user-attachments/assets/9f2aac4e-6250-4ad0-944c-7a6bddf60828" />
 
-> 📉 Churn/LTV Distribution · 🔎 SHAP Explanation · 🧠 Real-time Prediction
-
-![LTV Boxplot](churn_ltv_boxplot.png)
 
 ---
 
